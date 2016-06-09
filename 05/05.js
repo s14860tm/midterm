@@ -1,0 +1,3 @@
+function strlen(){
+    return length 
+};
